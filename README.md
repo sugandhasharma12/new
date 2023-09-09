@@ -1,2 +1,2 @@
 # new
-cout<<
+author 
